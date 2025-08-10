@@ -17,3 +17,8 @@
 - **Базы данных**: PostgreSQL
 - **Прочие технологии**: Scss
 - **Инструменты**: Charles Proxy
+
+
+Попробуйте эту уценку:
+
+![alt text](https://freeimghost.net/images/2025/08/10/QLmklRM6UPqc-plvmeMwV4t1d6cVtbXAGR_ODa7EeIuA5EoaxjyytXVJkS9QxIx0C7yyvi8A1EZqYuNWyoDIADSh.webp)
