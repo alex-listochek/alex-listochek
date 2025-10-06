@@ -15,7 +15,7 @@
 - **Языки**: TypeScript
 - **Фреймворки**: Flutter
 - **Базы данных**: PostgreSQL
-- **Прочие технологии**: React Native
+- **Прочие технологии**: React Native, WordPress
 - **Инструменты**: Charles Proxy
 
 
